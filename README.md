@@ -12,15 +12,15 @@
 </p>
 
 <p align="center">
-  <a href="https://trophy.ryglcloud.net/?username=LixGhost">
-    <img src="https://trophy.ryglcloud.net/?username=LixGhost&theme=onedark" alt="Trophies" />
+  <a href="https://trophy.ryglcloud.net/?username=Obelix1337">
+    <img src="https://trophy.ryglcloud.net/?username=Obelix1337&theme=onedark" alt="Trophies" />
   </a>
 </p>
 
 ---
 
 ### 🎯 Current Operations
-- 🔭 Infiltrating **[Six Ghost](https://sixghost.com)** — Red Team Infrastructure  
+- 🔭 Infiltrating **[Midas Haxor Team](https://midashaxor.team)** — Red Team Infrastructure  
 - 🌱 Weaponizing **NodeJS, Python, C++** for custom payload delivery  
 - 👨‍💻 All intel available at **[https://obelix.im](https://obelix.im)**  
 - 💬 Interrogation topics: **Binary Exploitation, Reverse Engineering, Network Penetration**  
