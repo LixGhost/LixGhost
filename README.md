@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=LixGhost&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://https://trophy.ryglcloud.net/?username=LixGhost)&theme=onedark)](https://trophy.ryglcloud.net/?username=LixGhost)
 </p>
 
 ---
