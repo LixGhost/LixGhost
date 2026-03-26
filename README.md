@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://trophy.ryglcloud.net/?username=LixGhost">
-    <img src="https://trophy.ryglcloud.net/?username=LixGhost" alt="Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=LixGhost&theme=onedark" alt="Trophies" />
   </a>
 </p>
 
