@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-[![trophy](https://trophy.ryglcloud.net/?username=LixGhost)&theme=onedark)](https://trophy.ryglcloud.net/?username=LixGhost)
+[![trophy](https://trophy.ryglcloud.net/?username=LixGhost)](https://trophy.ryglcloud.net/?username=LixGhost)
 </p>
 
 ---
