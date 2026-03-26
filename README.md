@@ -12,7 +12,9 @@
 </p>
 
 <p align="center">
-[![trophy](https://trophy.ryglcloud.net/?username=LixGhost)](https://trophy.ryglcloud.net/?username=LixGhost)
+  <a href="https://trophy.ryglcloud.net/?username=LixGhost">
+    <img src="https://trophy.ryglcloud.net/?username=LixGhost" alt="Trophies" />
+  </a>
 </p>
 
 ---
