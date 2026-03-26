@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Obelix1337&theme=onedark&row=1&column=6&margin-w=15&no-bg=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LixGhost&theme=onedark&row=1&column=6&margin-w=15&no-bg=true" alt="Trophies" />
   </a>
 </p>
 
@@ -46,16 +46,6 @@
   <a href="https://obelix.im" target="_blank">
     <img src="https://img.shields.io/badge/Portal-obelix.im-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
-</p>
-
-### 📊 System Analytics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obelix1337&theme=dark&hide_border=true&background=0D1117&stroke=0E75B6&ring=0E75B6&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Obelix1337&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=0E75B6&text_color=FFFFFF&title_color=0E75B6" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obelix1337&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=0E75B6" alt="Top Languages" />
 </p>
 
 ---
